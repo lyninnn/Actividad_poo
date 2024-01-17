@@ -1,8 +1,8 @@
 public class Calentador {
-    Integer temperatura;
-    Integer incremento;
-    Integer maximo;
-    Integer minimo;
+    private  Integer temperatura;
+    private  Integer incremento;
+    private  Integer maximo;
+    private  Integer minimo;
 
 
 
